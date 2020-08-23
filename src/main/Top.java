@@ -9,6 +9,7 @@ public class Top {
 		System.out.println("Lombok Demo");
 		e.setName("John");
 		System.out.println(e.getName());
+		System.out.println(e);
 
 	}
 
